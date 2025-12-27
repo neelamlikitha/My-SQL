@@ -162,13 +162,13 @@ def update_and_delete(conn):
 if __name__ == "__main__":
     print("\n==== PYTHON DBMS PROGRAM STARTED ====\n")
     # Step 1: Connect to server to ensure DB exists
-    server = create_connection("localhost", "root", "Lohi@janu08")
+    server = create_connection("localhost", "root", "likky_2408")
     if server:
         create_database(server)
         server.close()
 
     # Step 2: Connect to specific database
-    db = create_connection("localhost", "root", "Lohi@janu08", "schooldb")
+    db = create_connection("localhost", "root", "likky_2408", "schooldb")
     if db:
         create_tables(db)
         reset_tables(db)
