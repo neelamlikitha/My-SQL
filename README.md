@@ -2,7 +2,6 @@
 
 This project demonstrates how to build and manage a **relational database system** using **Python** and **MySQL**. It covers database creation, table management, CRUD operations, and SQL joins through a structured Python program.
 
----
 
 ## 📌 Project Overview
 
@@ -18,7 +17,6 @@ It showcases:
 - Displaying records using JOIN queries
 - Updating and deleting records safely
 
----
 
 ## 🛠️ Technologies Used
 
@@ -26,7 +24,6 @@ It showcases:
 - **MySQL**
 - **mysql-connector-python**
 
----
 
 ## 📂 Database Schema
 
@@ -38,7 +35,6 @@ It showcases:
 | age | INT |
 | grade | VARCHAR(10) |
 
----
 
 ### 📚 Classes Table
 | Column | Type |
@@ -48,7 +44,6 @@ It showcases:
 | subject | VARCHAR(50) |
 | score | INT |
 
----
 
 ## ⚙️ Features Implemented
 
@@ -61,7 +56,6 @@ It showcases:
 - ✅ Auto-increment reset using TRUNCATE
 - ✅ Clean console output for clarity
 
----
 
 ## ▶️ How to Run the Project
 
@@ -131,8 +125,8 @@ Feel free to fork this repository and submit pull requests for improvements or e
 This project is licensed under the MIT License.
 
 🙌 Author
-NARALA GURULOHITHA
+NEELAM LIKHITHA
 Python Developer | Database Enthusiast
 
-📧 Email: naralagurulohitha@gmail.com
-🔗 GitHub: https://github.com/gurulohithanarala
+📧 Email: likitha0612@gmail.com
+🔗 GitHub: https://github.com/neelamlikitha
